@@ -1,0 +1,112 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "location": "Taipei",
+      "account": "A1",
+      "avatar": "./images/avatars/a1.jpeg",
+      "photo": "/images/post/a1.jpeg",
+      "likes": 10,
+      "description": "oh my god1!",
+      "hashTag": "OMG!",
+      "createTime": "11 HOURS AGO"
+    },
+    {
+      "id": 2,
+      "location": "Taipei",
+      "account": "A2",
+      "avatar": "./images/avatars/a2.jpeg",
+      "photo": "./images/post/a2.jpeg",
+      "likes": 20,
+      "description": "oh my god2!",
+      "hashTag": "OMG!",
+      "createTime": "12 HOURS AGO"
+    },
+    {
+      "id": 3,
+      "location": "Taipei",
+      "account": "A3",
+      "avatar": "./images/avatars/a3.jpeg",
+      "photo": "./images/post/a3.jpeg",
+      "likes": 30,
+      "description": "oh my god3!",
+      "hashTag": "OMG!",
+      "createTime": "13 HOURS AGO"
+    },
+    {
+      "id": 4,
+      "location": "Taipei",
+      "account": "A4",
+      "avatar": "./images/avatars/a4.jpeg",
+      "photo": "./images/post/a4.jpeg",
+      "likes": 40,
+      "description": "oh my god4!",
+      "hashTag": "OMG!",
+      "createTime": "14 HOURS AGO"
+    },
+    {
+      "id": 5,
+      "location": "Taipei",
+      "account": "A5",
+      "avatar":"./images/avatars/a5.jpeg",
+      "photo": "./images/post/a5.jpeg",
+      "likes": 50,
+      "description": "oh my god5!",
+      "hashTag": "OMG!",
+      "createTime": "15 HOURS AGO"
+    }
+  ],
+
+  "storise": [
+    {
+      "id": 1,
+      "name": "Andy_1",
+      "avatar": "../../images/avatars/a1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Andy_2",
+      "avatar": "../../images/avatars/a2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Andy_3",
+      "avatar": "../../images/avatars/a3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Andy_4",
+      "avatar": "../../images/avatars/a4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Andy_5",
+      "avatar": "../../images/avatars/a5.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Andy_6",
+      "avatar": "../../images/avatars/a6.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Andy_7",
+      "avatar": "../../images/avatars/a7.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Andy_8",
+      "avatar": "../../images/avatars/a8.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Andy_9",
+      "avatar": "../../images/avatars/a9.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Andy_10",
+      "avatar": "../../images/avatars/a10.jpeg"
+    }
+  ]
+}
