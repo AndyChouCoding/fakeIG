@@ -66,7 +66,7 @@ const Comment: React.FC<IGPostProps> = ({
         </div>
         <p className="text-sm font-bold mb-2">{likes} likes</p>
         <p className="text-sm">
-          <span className="text-sm font-bold inline-block m-1">{account}</span>
+          <span className="text-sm font-bold inline-block mr-1">{account}</span>
           {description}
         </p>
         <p className="text-blue-900 text-sm">{hashTag}</p>
